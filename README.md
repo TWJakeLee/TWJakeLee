@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm GENG-MIN LEE (李庚珉) 👋
 
-<!--
-**TWJakeLee/TWJakeLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- 💻 [My website]() (Buliding)
+- 🌱 I’m currently learning: Python Deep Learning, Image Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+**Programming & Web**
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,git&theme=light)](https://skillicons.dev)
+
+**Hardware & Firmware**
+- `Arduino` / `ESP32-cam` / `LinkIt 7697` / `Firmware Development`
+
+
